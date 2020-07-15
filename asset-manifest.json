@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robotomodachi/static/css/main.51411d9b.chunk.css",
+    "main.js": "/robotomodachi/static/js/main.96e64962.chunk.js",
+    "main.js.map": "/robotomodachi/static/js/main.96e64962.chunk.js.map",
+    "runtime-main.js": "/robotomodachi/static/js/runtime-main.f82ba717.js",
+    "runtime-main.js.map": "/robotomodachi/static/js/runtime-main.f82ba717.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/robotomodachi/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cfcaf103.chunk.js": "/robotomodachi/static/js/2.cfcaf103.chunk.js",
+    "static/js/2.cfcaf103.chunk.js.map": "/robotomodachi/static/js/2.cfcaf103.chunk.js.map",
+    "index.html": "/robotomodachi/index.html",
+    "precache-manifest.7fd579fbe740dcc5644a9183a5d90103.js": "/robotomodachi/precache-manifest.7fd579fbe740dcc5644a9183a5d90103.js",
+    "service-worker.js": "/robotomodachi/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/robotomodachi/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.51411d9b.chunk.css.map": "/robotomodachi/static/css/main.51411d9b.chunk.css.map",
+    "static/js/2.cfcaf103.chunk.js.LICENSE.txt": "/robotomodachi/static/js/2.cfcaf103.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robotomodachi/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f82ba717.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cfcaf103.chunk.js",
+    "static/css/main.51411d9b.chunk.css",
+    "static/js/main.96e64962.chunk.js"
+  ]
+}
